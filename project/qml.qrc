@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>BaseView.qml</file>
+        <file>MultimediaView.qml</file>
+        <file>NaviView.qml</file>
+        <file>WebBrowserView.qml</file>
+        <file>TelView.qml</file>
+        <file>RadioView.qml</file>
+    </qresource>
+</RCC>
